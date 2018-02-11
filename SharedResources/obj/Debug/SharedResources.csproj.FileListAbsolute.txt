@@ -1,0 +1,10 @@
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\SharedResources.dll
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\SharedResources.pdb
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\obj\Debug\SharedResources.csproj.CoreCompileInputs.cache
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\obj\Debug\SharedResources.dll
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\obj\Debug\SharedResources.pdb
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\AutoMapper.dll
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\SimpleInjector.dll
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\AutoMapper.xml
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\bin\Debug\SimpleInjector.xml
+C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\SharedResources\obj\Debug\SharedResources.csprojResolveAssemblyReference.cache
