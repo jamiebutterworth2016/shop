@@ -22,3 +22,28 @@ C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\DAL\bin\Debug\Ef
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\DAL\bin\Debug\NMemory.dll
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\DAL\bin\Debug\Effort.xml
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\DAL\bin\Debug\NMemory.xml
+C:\SourceCode\shop\DAL\bin\Debug\DAL.dll.config
+C:\SourceCode\shop\DAL\bin\Debug\DAL.dll
+C:\SourceCode\shop\DAL\bin\Debug\DAL.pdb
+C:\SourceCode\shop\DAL\bin\Debug\Effort.dll
+C:\SourceCode\shop\DAL\bin\Debug\EntityFramework.dll
+C:\SourceCode\shop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\SourceCode\shop\DAL\bin\Debug\NMemory.dll
+C:\SourceCode\shop\DAL\bin\Debug\SharedResources.dll
+C:\SourceCode\shop\DAL\bin\Debug\SimpleInjector.dll
+C:\SourceCode\shop\DAL\bin\Debug\SimpleInjector.Packaging.dll
+C:\SourceCode\shop\DAL\bin\Debug\SharedResources.pdb
+C:\SourceCode\shop\DAL\bin\Debug\Effort.xml
+C:\SourceCode\shop\DAL\bin\Debug\EntityFramework.xml
+C:\SourceCode\shop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\SourceCode\shop\DAL\bin\Debug\NMemory.xml
+C:\SourceCode\shop\DAL\bin\Debug\SimpleInjector.xml
+C:\SourceCode\shop\DAL\bin\Debug\SimpleInjector.Packaging.xml
+C:\SourceCode\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\SourceCode\shop\DAL\obj\Debug\DAL.Migrations.Product.resources
+C:\SourceCode\shop\DAL\obj\Debug\DAL.Migrations.ProductNameLengthConstraint.resources
+C:\SourceCode\shop\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\SourceCode\shop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\SourceCode\shop\DAL\obj\Debug\DAL.dll
+C:\SourceCode\shop\DAL\obj\Debug\DAL.pdb
+C:\SourceCode\shop\DAL\obj\Debug\DAL.Migrations.User.resources

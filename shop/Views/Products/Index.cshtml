@@ -1,5 +1,16 @@
-﻿@{
+﻿@model shop.Models.ProductsViewModel
+
+@{
     ViewBag.Title = "Products";
 }
 
 <h2>Products</h2>
+
+<div>
+    @foreach (var product in Model.Products)
+    {
+        <div>
+            <span>@product.Name</span>
+        </div>
+    }
+</div>

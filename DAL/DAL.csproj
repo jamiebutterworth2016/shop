@@ -67,6 +67,7 @@
     <Compile Include="Context.cs" />
     <Compile Include="DALPackage.cs" />
     <Compile Include="DataModels\Product.cs" />
+    <Compile Include="DataModels\User.cs" />
     <Compile Include="Migrations\201802100947037_Product.cs" />
     <Compile Include="Migrations\201802100947037_Product.Designer.cs">
       <DependentUpon>201802100947037_Product.cs</DependentUpon>
@@ -74,6 +75,10 @@
     <Compile Include="Migrations\201802101346177_Product-Name-Length-Constraint.cs" />
     <Compile Include="Migrations\201802101346177_Product-Name-Length-Constraint.Designer.cs">
       <DependentUpon>201802101346177_Product-Name-Length-Constraint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802111808136_User.cs" />
+    <Compile Include="Migrations\201802111808136_User.Designer.cs">
+      <DependentUpon>201802111808136_User.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -88,6 +93,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201802101346177_Product-Name-Length-Constraint.resx">
       <DependentUpon>201802101346177_Product-Name-Length-Constraint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802111808136_User.resx">
+      <DependentUpon>201802111808136_User.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

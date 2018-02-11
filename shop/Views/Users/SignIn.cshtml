@@ -1,0 +1,24 @@
+﻿@model shop.Models.Users.SignInViewModel
+
+@{
+    ViewBag.Title = "Sign In";
+}
+
+<h2>User</h2>
+
+<div>
+    @using (Html.BeginForm("SignIn", "User", FormMethod.Post))
+    {
+        <div>
+            @Html.LabelFor(x => x.UserName)
+            @Html.TextBoxFor(x => x.UserName)
+        </div>
+        <div>
+            @Html.LabelFor(x => x.UserPassword)
+            @Html.TextBoxFor(x => x.UserPassword)
+        </div>
+        <div>
+            <input type="submit" value="Sign In"/>
+        </div>
+    }
+</div>

@@ -11,5 +11,7 @@ namespace DAL
         public Context(DbConnection connection) : base(connection, true) { }
 
         public virtual DbSet<Product> Products { get; set; }
+
+        public virtual DbSet<User> Users { get; set; }
     }
 }

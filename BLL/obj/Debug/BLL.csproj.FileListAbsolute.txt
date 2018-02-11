@@ -21,3 +21,26 @@ C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\BLL\bin\Debug\Ef
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\BLL\bin\Debug\NMemory.dll
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\BLL\bin\Debug\Effort.xml
 C:\Users\Butterworth\Documents\Visual Studio 2017\Projects\shop\BLL\bin\Debug\NMemory.xml
+C:\SourceCode\shop\BLL\bin\Debug\BLL.dll
+C:\SourceCode\shop\BLL\bin\Debug\BLL.pdb
+C:\SourceCode\shop\BLL\bin\Debug\AutoMapper.dll
+C:\SourceCode\shop\BLL\bin\Debug\DAL.dll
+C:\SourceCode\shop\BLL\bin\Debug\SharedResources.dll
+C:\SourceCode\shop\BLL\bin\Debug\SimpleInjector.dll
+C:\SourceCode\shop\BLL\bin\Debug\SimpleInjector.Packaging.dll
+C:\SourceCode\shop\BLL\bin\Debug\EntityFramework.dll
+C:\SourceCode\shop\BLL\bin\Debug\Effort.dll
+C:\SourceCode\shop\BLL\bin\Debug\NMemory.dll
+C:\SourceCode\shop\BLL\bin\Debug\DAL.pdb
+C:\SourceCode\shop\BLL\bin\Debug\DAL.dll.config
+C:\SourceCode\shop\BLL\bin\Debug\SharedResources.pdb
+C:\SourceCode\shop\BLL\bin\Debug\AutoMapper.xml
+C:\SourceCode\shop\BLL\bin\Debug\SimpleInjector.xml
+C:\SourceCode\shop\BLL\bin\Debug\SimpleInjector.Packaging.xml
+C:\SourceCode\shop\BLL\bin\Debug\EntityFramework.xml
+C:\SourceCode\shop\BLL\bin\Debug\Effort.xml
+C:\SourceCode\shop\BLL\bin\Debug\NMemory.xml
+C:\SourceCode\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\SourceCode\shop\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\SourceCode\shop\BLL\obj\Debug\BLL.dll
+C:\SourceCode\shop\BLL\obj\Debug\BLL.pdb
