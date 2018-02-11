@@ -14,6 +14,8 @@ namespace DAL
             container.Register<ICurrentContext, CurrentContext>(Lifestyle.Scoped);
 
             container.Register<IProductRepository, ProductRepository>();
+
+            container.Register<IUserRepository, UserRepository>();
         }
     }
 }

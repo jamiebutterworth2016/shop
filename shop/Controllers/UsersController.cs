@@ -1,4 +1,7 @@
-﻿using shop.Models.Users;
+﻿using AutoMapper;
+using BLL.Abstractions.Services;
+using BLL.Models;
+using shop.Models.Users;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Web.Mvc;
@@ -7,7 +10,14 @@ namespace shop.Controllers
 {
     public class UsersController : Controller
     {
-        public UsersController() { }
+        private readonly ISignInService _signInService;
+        private readonly IMapper _mapper;
+
+        public UsersController(ISignInService signInService, IMapper mapper)
+        {
+            _signInService = signInService;
+            _mapper = mapper;
+        }
 
         [HttpGet]
         public async Task<ActionResult> SignIn(CancellationToken cancellationToken)
@@ -18,9 +28,18 @@ namespace shop.Controllers
         [HttpPost]
         public async Task<ActionResult> SignIn(SignInViewModel model, CancellationToken cancellationToken)
         {
-            //redirect to home.
+            var signInRequest = _mapper.Map<SignInRequest>(model);
 
-            return View();
+            var result = await _signInService.SignIn(signInRequest, cancellationToken);
+
+            if (!result.Success)
+            {
+                model.EmailAddress = "";
+                model.Password = "";
+                model.Error = result.Error;
+            }
+
+            return View(model);
         }
     }
 }

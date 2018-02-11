@@ -10,6 +10,8 @@ namespace BLL
         public void RegisterServices(Container container)
         {
             container.Register<IProductService, ProductService>();
+
+            container.Register<ISignInService, SignInService>();
         }
     }
 }

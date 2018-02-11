@@ -51,10 +51,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstractions\Services\IProductService.cs" />
+    <Compile Include="Abstractions\Services\ISignInService.cs" />
     <Compile Include="BLLPackage.cs" />
     <Compile Include="Concretions\Services\ProductService.cs" />
+    <Compile Include="Concretions\Services\SignInService.cs" />
     <Compile Include="MapperProfiles\ProductDataModelToProductProfile.cs" />
     <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\SignInRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -16,7 +16,7 @@ namespace shop.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult> Index(CancellationToken cancellationToken)
+        public async Task<ActionResult> Products(CancellationToken cancellationToken)
         {
             var result = await _productService.GetProducts(cancellationToken);
 

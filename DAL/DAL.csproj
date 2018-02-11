@@ -62,8 +62,10 @@
   <ItemGroup>
     <Compile Include="Abstractions\Helpers\ICurrentContext.cs" />
     <Compile Include="Abstractions\Repositories\IProductRepository.cs" />
+    <Compile Include="Abstractions\Repositories\IUserRepository.cs" />
     <Compile Include="Concretions\Helpers\CurrentContext.cs" />
     <Compile Include="Concretions\Repositories\ProductRepository.cs" />
+    <Compile Include="Concretions\Repositories\UserRepository.cs" />
     <Compile Include="Context.cs" />
     <Compile Include="DALPackage.cs" />
     <Compile Include="DataModels\Product.cs" />
@@ -79,6 +81,10 @@
     <Compile Include="Migrations\201802111808136_User.cs" />
     <Compile Include="Migrations\201802111808136_User.Designer.cs">
       <DependentUpon>201802111808136_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802112057408_User-EmailAddress-Unique.cs" />
+    <Compile Include="Migrations\201802112057408_User-EmailAddress-Unique.Designer.cs">
+      <DependentUpon>201802112057408_User-EmailAddress-Unique.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -96,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201802111808136_User.resx">
       <DependentUpon>201802111808136_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802112057408_User-EmailAddress-Unique.resx">
+      <DependentUpon>201802112057408_User-EmailAddress-Unique.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

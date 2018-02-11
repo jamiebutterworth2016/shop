@@ -47,3 +47,4 @@ C:\SourceCode\shop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\SourceCode\shop\DAL\obj\Debug\DAL.dll
 C:\SourceCode\shop\DAL\obj\Debug\DAL.pdb
 C:\SourceCode\shop\DAL\obj\Debug\DAL.Migrations.User.resources
+C:\SourceCode\shop\DAL\obj\Debug\DAL.Migrations.UserEmailAddressUnique.resources
